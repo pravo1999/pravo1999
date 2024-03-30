@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, My name is Prashant Vishwakarma</h2>
 
 ###
-![image](https://github.com/pravo1999/pravo1999/assets/72229450/5685d6b5-b05d-43b0-8c4d-382c1671e7a7)
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 ###
 
 
